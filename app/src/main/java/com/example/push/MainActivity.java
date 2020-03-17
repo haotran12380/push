@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         toast("Hello Git Hub");
+        toast("Hello Hao");
     }
     // a lon r cai e up la cai tren a
     private void  TestUpload(){
